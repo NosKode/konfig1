@@ -1,0 +1,23 @@
+user,command,result,timestamp
+misha,ls,Directory  4096       2024-12-08 20:25:45 dz1,2024-12-08 20:26:17
+misha,cd,Changed directory to dz1,2024-12-08 20:26:22
+misha,ls,"Directory  4096       2024-12-08 19:19:59 Документы
+Directory  0          2024-12-08 19:00:31 Музыка
+Directory  0          2024-12-08 19:01:08 Робочий_стол
+Directory  0          2024-12-08 19:08:29 Фото",2024-12-08 20:26:25
+misha,cd,Changed directory to Документы,2024-12-08 20:26:37
+misha,ls,"File       31         2024-12-08 18:57:31 Дробные_числа.txt
+File       9882       2024-12-08 18:58:43 Текстовый документ OpenDocument.odt
+File       24         2024-12-08 18:57:59 Целые_числа.txt",2024-12-08 20:26:41
+misha,tac,Reversed content of Целые_числа.txt,2024-12-08 20:27:06
+misha,touch,Touched file Новый_файл.txt,2024-12-08 20:27:29
+misha,cd,Changed directory to ..,2024-12-08 20:27:42
+misha,ls,"Directory  4096       2024-12-08 20:27:29 Документы
+Directory  0          2024-12-08 19:00:31 Музыка
+Directory  0          2024-12-08 19:01:08 Робочий_стол
+Directory  0          2024-12-08 19:08:29 Фото",2024-12-08 20:28:04
+misha,cd,Changed directory to Документы,2024-12-08 20:28:21
+misha,ls,"File       31         2024-12-08 18:57:31 Дробные_числа.txt
+File       0          2024-12-08 20:27:29 Новый_файл.txt
+File       9882       2024-12-08 18:58:43 Текстовый документ OpenDocument.odt
+File       24         2024-12-08 18:57:59 Целые_числа.txt",2024-12-08 20:28:25
