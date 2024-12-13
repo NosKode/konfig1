@@ -42,5 +42,15 @@ python main.py --username user --computername my-computer --tar dz1.tar --log ac
 
 ## Пример использования 
 - ![image](https://github.com/user-attachments/assets/bd2ae524-b27f-4d81-a895-9510357e33a3)
+## Тесты
+![7](https://github.com/user-attachments/assets/d1582c0a-69a5-4a31-8313-55ae8ec3806e)
+![8](https://github.com/user-attachments/assets/f85bf2de-20b0-4c48-81e7-9d8555f7cab9)
+![9](https://github.com/user-attachments/assets/df11c98e-b3ea-4a66-8f35-e7933a1c7e1d)
+
+
+
+
+
+
 
 
